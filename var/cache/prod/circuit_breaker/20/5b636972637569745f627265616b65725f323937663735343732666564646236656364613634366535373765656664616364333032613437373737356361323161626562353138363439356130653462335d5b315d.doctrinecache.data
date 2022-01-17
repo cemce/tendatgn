@@ -1,0 +1,91 @@
+1642071458
+s:6100:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Diez tendencias claves eCommerce para 2022</title>
+    <link>https://www.prestashop.com/es/blog/ecommerce-tendencias-2022</link>
+    <description>La pandemia permitió que el comercio electrónico avance de forma espectacular.</description>
+     <pubDate>Tue, 04 Jan 2022 11:34:12 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ecommerce-tendencias-2022</guid>
+  </item>
+  <item>
+    <title>Los mejores módulos para convertir tráfico en ventas esta Navidad</title>
+    <link>https://www.prestashop.com/es/blog/modulos-navidad-prestashop</link>
+    <description>Por motivos obvios la Navidad es el período del año en el que las tiendas online tienen más actividad.</description>
+     <pubDate>Mon, 03 Jan 2022 10:54:17 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-navidad-prestashop</guid>
+  </item>
+  <item>
+    <title>¿Cómo puedo atraer nuevos usuarios a mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/estrategias-atraccion-clientes</link>
+    <description>El comercio electrónico ha crecido mucho en la última década.</description>
+     <pubDate>Wed, 29 Dec 2021 12:50:20 +0100</pubDate>
+ <dc:creator>Sandra Bernad Martínez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/estrategias-atraccion-clientes</guid>
+  </item>
+  <item>
+    <title>La sostenibilidad, un factor con cada vez más peso para los compradores</title>
+    <link>https://www.prestashop.com/es/blog/sostenibilidad-ecommerce</link>
+    <description>La mayoría de los clientes potenciales de una tienda online saben que la sostenibilidad es un factor de vital importancia. A mayor rapidez de entrega, más contaminación.</description>
+     <pubDate>Wed, 29 Dec 2021 10:18:06 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/sostenibilidad-ecommerce</guid>
+  </item>
+  <item>
+    <title>Live Streaming eCommerce, la revolución del comercio electrónico</title>
+    <link>https://www.prestashop.com/es/blog/live-streaming-ecommerce</link>
+    <description>El COVID-19 ha supuesto un auténtico shock a nivel mundial, ya no solo a nivel de relaciones o en la manera en la que realizamos algunas tareas, también ha tocado de pleno tanto al comercio tradici</description>
+     <pubDate>Wed, 29 Dec 2021 09:59:51 +0100</pubDate>
+ <dc:creator>Sandra Bernad Martínez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/live-streaming-ecommerce</guid>
+  </item>
+  <item>
+    <title>Desarrolla una estrategia de contenido para que tu tienda destaque estas navidades</title>
+    <link>https://www.prestashop.com/es/blog/tiktok-strategy-ecommerce</link>
+    <description>Ya sabes que diciembre es el mes de compras clave para las tiendas online.</description>
+     <pubDate>Tue, 21 Dec 2021 11:40:42 +0100</pubDate>
+ <dc:creator>Simon Fowler</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tiktok-strategy-ecommerce</guid>
+  </item>
+  <item>
+    <title>Nueve consejos para preparar las rebajas</title>
+    <link>https://www.prestashop.com/es/blog/nueve-consejos-rebajas</link>
+    <description>Descripción: Comercio electrónico: ¿cómo prepararse eficazmente para las rebajas? ¿Qué módulos de comercio electrónico debo utilizar? Descubre nuestros 9 consejos de expertos.</description>
+     <pubDate>Wed, 15 Dec 2021 17:09:22 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/nueve-consejos-rebajas</guid>
+  </item>
+  <item>
+    <title>5 módulos SEO para mejorar el posicionamiento de tu tienda PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/mejores-modulos-seo</link>
+    <description>Si tienes una tienda online, el SEO puede convertirse en tu mejor aliado. Esta herramienta es imprescindible para acceder a nuevos clientes y aumentar tus ventas.</description>
+     <pubDate>Mon, 13 Dec 2021 12:01:05 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejores-modulos-seo</guid>
+  </item>
+  <item>
+    <title>Cinco consejos para desarrollar tu negocio a nivel internacional</title>
+    <link>https://www.prestashop.com/es/blog/consejos-internacionalizacion</link>
+    <description>Con Internet, las ventas ya no tienen fronteras.</description>
+     <pubDate>Mon, 13 Dec 2021 10:36:06 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consejos-internacionalizacion</guid>
+  </item>
+  <item>
+    <title>Visibilidad para el eCommerce en Google: Piensa más allá del SEO y el SEA</title>
+    <link>https://www.prestashop.com/es/blog/visibilidad-google-ecommerce</link>
+    <description>Hay muchas formas de mejorar la visibilidad de tu comercio electrónico en Google.</description>
+     <pubDate>Thu, 02 Dec 2021 17:29:13 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/visibilidad-google-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";
